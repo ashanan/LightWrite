@@ -4,6 +4,6 @@
 
 LightWrite is a free and open source web-based clone of [WriteRoom](http://www.hogbaysoftware.com/products/writeroom) by HogBaySoftware.
 
-LightWrite is built on lots of open source componants, including Python, Django, jQuery, and Smoke.js.
+LightWrite is built on lots of open source components, including Python, Django, jQuery, and Smoke.js.
 
 Are there bugs or features you want for LightWrite? Get in touch! 
